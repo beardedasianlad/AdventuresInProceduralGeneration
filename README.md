@@ -9,10 +9,10 @@ There are multiple ways of creation myth motif's. I'm just gonna hodgepodge them
  2. Earth Diver - A diver (can be any kind of creature) plunges to the primordial seabed to bring up sand/mud which develops into the world.
  3. Emergence Myths - Progenitors pass through a series of worlds and metamorphoses until the present world.
  4. Creation via Dismemberment of a primordial being.
- 5. Creation by splitting/ordering of an primordial entity such as a cosmic egg or bringing order to chaos.
+ 5. Creation by splitting/ordering of a primordial unity such as a cracking of the cosmic egg
 
 I will also need a name generator as well as a grammar of divine domains to assign it to. 
 
 ## TO DO
-- Figure out which grammar system/language to use
+- Using pytracery to handle grammars
 - ASP ????
