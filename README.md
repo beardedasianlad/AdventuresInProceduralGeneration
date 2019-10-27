@@ -14,5 +14,5 @@ There are multiple ways of creation myth motif's. I'm just gonna hodgepodge them
 I will also need a name generator as well as a grammar of divine domains to assign it to. 
 
 ## TO DO
-- Using pytracery to handle grammars
+- ~~Using pytracery to handle grammars~~ After experimenting, tracery isn't enough as it doesn't allow me to save states and pass it to another generating phase. Might do something a bit more rudimentary for now.
 - ASP ????
