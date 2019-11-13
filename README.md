@@ -11,8 +11,9 @@ There are multiple ways of creation myth motif's. I'm just gonna hodgepodge them
  4. Creation via Dismemberment of a primordial being.
  5. Creation by splitting/ordering of a primordial unity such as a cracking of the cosmic egg
 
-I will also need a name generator as well as a grammar of divine domains to assign it to. 
+I will also need a name generator as well as a grammar of divine domains to assign it to. Need to add new handling as tracery can't store generated objects for a next grammar pass.
 
 ## TO DO
 - Using pytracery to handle grammars
 - ASP ????
+- ??? WHAT AM I DOING
