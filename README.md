@@ -16,4 +16,3 @@ I will also need a name generator as well as a grammar of divine domains to assi
 ## TO DO
 - Using pytracery to handle grammars
 - ASP ????
-- ??? WHAT AM I DOING
